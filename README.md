@@ -8,3 +8,5 @@ This repository contains my assignments
 [Assignment 4](https://github.com/kevinn12/assignments/blob/master/assignment4.ipynb)
 
 [Graded Assignment 1 for R](https://github.com/kevinn12/assignments/blob/master/Graded_assignment1%20(R1).ipynb)
+
+[Graded Assignment 2 for R](https://github.com/kevinn12/assignments/blob/master/Graded_assignment2%20(R2).ipynb)
