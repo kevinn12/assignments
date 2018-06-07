@@ -10,3 +10,7 @@ This repository contains my assignments
 [Graded Assignment 1 for R](https://github.com/kevinn12/assignments/blob/master/Graded_assignment1%20(R1).ipynb)
 
 [Graded Assignment 2 for R](https://github.com/kevinn12/assignments/blob/master/Graded_assignment2%20(R2).ipynb)
+
+[Exam R](https://github.com/kevinn12/assignments/blob/master/Exam%20R.ipynb)
+
+[Exam Python](https://github.com/kevinn12/assignments/blob/master/Exam%20Python.ipynb)
